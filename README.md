@@ -1,5 +1,6 @@
-#  Mean and variance of a discrete  distribution
-
+#  Mean and variance of a discrete  distribution:
+# NAME: T DANUSH REDDY
+# REFERENCE NO: 212223040029
 
 # Aim : 
 
